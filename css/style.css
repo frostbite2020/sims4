@@ -20,8 +20,9 @@
 .text3 {
 	position: absolute;
     margin-top: 800px;
-    margin-left: 240px;
-    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 100px;
+    font-size: 35px;
     color: white;
     font-family: Garamond;
 }
@@ -36,8 +37,8 @@
 }
 
 .logo{
-	resize: 10px;
-    position: absolute;
+   width: 20px;
+
 }
   
 .img {
