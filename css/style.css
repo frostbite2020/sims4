@@ -1,16 +1,16 @@
 .text1 {
-	   position: absolute;
+	position: absolute;
     margin-top: 320px;
     margin-left: 200px;
-    font-size: 24px;
+    font-size: 25px;
     color: white;
     font-family: Garamond;
 }
 
 
 .text2 {
-	   position: absolute;
-    margin-top: 820px;
+	position: absolute;
+    margin-top: 700px;
     margin-left: 530px;
     font-size: 50px;
     color: white;
@@ -18,19 +18,19 @@
 }
 
 .text3 {
-	   position: absolute;
-    margin-top: 900px;
+	position: absolute;
+    margin-top: 800px;
     margin-left: 240px;
-    font-size: 24px;
+    font-size: 30px;
     color: white;
     font-family: Garamond;
 }
 
 .text4 {
-	   position: absolute;
+	position: absolute;
     margin-top: 300px;
     margin-left: 1020px;
-    font-size: 24px;
+    font-size: 25px;
     color: white;
     font-family: Garamond;
 }
@@ -45,4 +45,10 @@
 	margin-top: 120px;
 	margin-left:1020px;
 
+}
+
+.btn1 {
+    position:absolute;
+    margin-top: 500px;
+    margin-left:900px;
 }
